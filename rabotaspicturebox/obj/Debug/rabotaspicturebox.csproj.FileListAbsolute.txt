@@ -1,0 +1,13 @@
+C:\Users\79994\source\repos\rabotaspicturebox\bin\Debug\rabotaspicturebox.exe.config
+C:\Users\79994\source\repos\rabotaspicturebox\bin\Debug\rabotaspicturebox.exe
+C:\Users\79994\source\repos\rabotaspicturebox\bin\Debug\rabotaspicturebox.pdb
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.Form1.resources
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.Properties.Resources.resources
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.csproj.GenerateResource.cache
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.csproj.CoreCompileInputs.cache
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.exe
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.pdb
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.csproj.AssemblyReference.cache
+C:\Users\79994\source\repos\rabotaspicturebox\obj\Debug\rabotaspicturebox.EndGame.resources
+C:\Users\79994\source\repos\rabotaspicturebox\bin\Debug\Database1.mdf
+C:\Users\79994\source\repos\rabotaspicturebox\bin\Debug\Database1_log.ldf
